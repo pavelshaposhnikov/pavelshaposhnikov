@@ -1,10 +1,16 @@
-<h1>Hi there 👋</h1>
-<h3>My name Pasha, i'm Junior Front-End Developer(HTML/CSS/JavaScript)</h3>
+# _Hi there_ 👋 
+### _My name Pasha, i'm  <s>HTML/Markup</s> Junior Front-End Developer(HTML/CSS/JavaScript)_
+_I’m currently learning fundamental JavaScript_ :books:
 
-My Portfolio 🔗
+- _<a href="#" target="_blank">My Portfolio</a>_ :link:
 
-My Resume 🔗
+- _<a href="#" target="_blank">My Resume</a>_ :link:
 
-📫 U can looking me here: LinkedIn, Telegram and pavelshaposhnikov.web@gmail.com :shipit:
+📫 _U can looking me here: <a href="#" target="_blank">LinkedIn</a>,
+  <a href="#" target="_blank">Telegram</a> and pavelshaposhnikov.web@gmail.com_ :shipit:
 
-👽 see ya 😉
+
+:alien: _see ya_ :wink:
+
+ 
+ 
