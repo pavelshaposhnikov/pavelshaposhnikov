@@ -1,13 +1,10 @@
 <h1>Hi there 👋</h1>
-<h3>My name Pasha, i'm HTML/Markup Front-End Developer(HTML/CSS/JavaScript)</h3>
-I’m currently learning fundamental JavaScript and React.js 📚
+<h3>My name Pasha, i'm Junior Front-End Developer(HTML/CSS/JavaScript)</h3>
 
 My Portfolio 🔗
 
 My Resume 🔗
 
-My favorite Stack: React.js, TypeScript, JS, SCSS, BEM, GitHub
-
-📫 U can looking me here: LinkedIn, Telegram and shaposhnikov.web@gmail.com :shipit:
+📫 U can looking me here: LinkedIn, Telegram and pavelshaposhnikov.web@gmail.com :shipit:
 
 👽 see ya 😉
