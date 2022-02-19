@@ -1,5 +1,5 @@
-<h2 style="font-size:100px">Hi there 👋</h2>
-My name Pasha, i'm HTML/Markup Front-End Developer(HTML/CSS/JavaScript)
+<h4>Hi there 👋</h4>
+<h2>My name Pasha, i'm HTML/Markup Front-End Developer(HTML/CSS/JavaScript)</h2>
 I’m currently learning fundamental JavaScript and React.js 📚
 
 My Portfolio 🔗
