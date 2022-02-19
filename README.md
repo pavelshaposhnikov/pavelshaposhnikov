@@ -1,5 +1,5 @@
-<h6>Hi there 👋</h6>
-<h2>My name Pasha, i'm HTML/Markup Front-End Developer(HTML/CSS/JavaScript)</h2>
+<h1>Hi there 👋</h1>
+<h3>My name Pasha, i'm HTML/Markup Front-End Developer(HTML/CSS/JavaScript)</h3>
 I’m currently learning fundamental JavaScript and React.js 📚
 
 My Portfolio 🔗
